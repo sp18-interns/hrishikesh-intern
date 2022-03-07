@@ -1,3 +1,5 @@
-ArrayListDemo\.idea\*
-ArrayListDemo.iml\*
+ArrayListDemo\.idea
+ArrayListDemo.iml
+ArrayListDemo\src\*
+
 

@@ -1,5 +1,3 @@
-ArrayListDemo/out/*
-ArrayListDemo/.idea/*
-ArrayListDemo.iml
-.idea
-.iml
+ArrayListDemo/out
+*.idea
+*.iml

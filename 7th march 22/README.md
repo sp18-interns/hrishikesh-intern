@@ -15,9 +15,10 @@
 	-Practice on ArrayList.
 	-installed the virtual box and created one virtual machine.
 
-## https://restfulapi.net/
-## https://youtu.be/nKxS95KO5bQ
-## https://youtu.be/qVTAB8Z2VmA
-## https://www.w3schools.com/mysql/
+### References
+	https://restfulapi.net/
+	https://youtu.be/nKxS95KO5bQ
+	https://youtu.be/qVTAB8Z2VmA
+	https://www.w3schools.com/mysql/
 
 	

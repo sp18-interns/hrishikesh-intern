@@ -1,6 +1,6 @@
 # hrishikesh-intern
 
-## 4th march 2022
+## 7th march 2022
 
 ### FIRST_HALF
 	-watch the video about REST API. 

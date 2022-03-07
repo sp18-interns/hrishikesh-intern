@@ -7,7 +7,9 @@
 	-Watch the video about How to Install Ubuntu 21.04 in VirtualBox on Windows 11/Windows 10.	
 	-Read about rest API.
 	-installed mysql and dbeaver.
+	-had a session with kunal sir on REST API.
 ### SECOND_HALF
+	-had a session with Avinash sir on MySql basics.
 	-read mysql tutorial on w3school.
 	-Read article on Array and ArrayList  and List.
 	-Practice on ArrayList.

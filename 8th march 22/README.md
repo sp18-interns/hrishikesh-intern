@@ -1,13 +1,6 @@
 # hrishikesh-intern
 
-### 8th march 2022
-
-## References
-
-https://www.youtube.com/watch?v=yb46iD5dJYY
-
-
-# <DATE in DD-MONTH-YYYY>
+# <DATE in 08-03-2022>
 
 ## First Half
 
@@ -47,5 +40,6 @@ Had a session with Avinash sir
 ### Doubts
 
 ### Links
+- https://www.youtube.com/watch?v=yb46iD5dJYY
 - https://medium.com/@kasunpdh/java-lambda-expressions-3195f677ed38 
 - http://notjustcoders.com/category/java/page/2/

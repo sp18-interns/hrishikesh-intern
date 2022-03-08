@@ -1,5 +1,4 @@
-ReverseArray/out/*
-ReverseArray/.idea/*
-ReverseArray/ReverseArray.iml
-.idea
-ReverseArray/*.iml
+ReverseArray/out/
+ReverseArray/.idea/
+.idea/
+*.iml

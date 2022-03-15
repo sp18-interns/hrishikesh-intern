@@ -13,17 +13,22 @@ TOPIC - Postgres
 - Followed below follwing commands for postgres.
 	
 ####Create the file repository configuration:
-sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+	
+	sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg 		main" > /etc/apt/sources.list.d/pgdg.list'
 
 #### Import the repository signing key:
-wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+	
+	wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key 	add -
 
 #### Update the package lists:
-sudo apt-get update
+	
+	sudo apt-get update
 
 #### Install the latest version of PostgreSQL.
+
 #### If you want a specific version, use 'postgresql-12' or similar instead of 'postgresql':
-sudo apt-get -y install postgresql
+	
+	sudo apt-get -y install postgresql
 
 ### Doubts
 
@@ -40,8 +45,11 @@ https://www.postgresql.org/download/linux/ubuntu/
 Topic : Spring Boot
 
 ### Videos
+
 - Spring boot tutorial.
+
 ### Assignment 
+
 - Reading JPA Tutorial
 - connected database to server. <Completed>
 - had a session with abrar SIR on Git annd Github.
@@ -51,4 +59,5 @@ Topic : Spring Boot
 - no doubt yet.
 
 ### Links
+
 - https://www.javatpoint.com/jpa-tutorial

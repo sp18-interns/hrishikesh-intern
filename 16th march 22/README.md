@@ -37,12 +37,11 @@ Topic : Spring Boot
 
 - read article on entity annotation in spring.
 - Read article on Spring Data JPA.
-- made connection between intellij student database to debeaver
 
 ### Doubts
 
 - no doubt yet.
 
 ### Links
-- - https://www.javatpoint.com/spring-boot-starter-data-jpa
+- https://www.javatpoint.com/spring-boot-starter-data-jpa
 - https://www.google.com/search?q=entity%20annotation%20in%20spring&ie=utf-8&oe=utf-8&client=firefox-b-m

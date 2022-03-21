@@ -1,6 +1,6 @@
 # hrishikesh-intern
 
-# DATE in 21-03-2022
+# DATE 21-03-2022
 
 ## First Half
 
@@ -10,7 +10,7 @@ TOPIC - Spring Boot
 
 - What is JPA, Spring Data and Spring Data JPA
 - Had a session with Kunal sir, abrar sir and avinash sir.
-- Assign a task on Zomato Application.
+- Task on Zomato Application.
 
 ### Doubts
 

@@ -28,16 +28,3 @@ INSERT INTO zomato.media_category
 (media_category_id, name)
 VALUES(1, 'Food'),
 (2, 'ambience');
-
--- seed data for area
---INSERT INTO zomato.area
---(area_id, name, latitude, longitude, radius)
---VALUES
---(1, 'Kopar Khairane', '19.102769', '73.009001', 5.5),
---(2, 'Vashi', '19.0745', '72.9978', 5.6),
---(3, 'Rabale', '19.1463', '73.0081', 5.7),
---(4, 'Airoli', '19.1590', '72.9986', 5.8);
-
---
-
-

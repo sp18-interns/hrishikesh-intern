@@ -1,40 +1,34 @@
-# hrishikesh-intern
-
-# DATE 21-03-2022
+<DATE 21-03-2022>
 
 ## First Half
-
-TOPIC - Spring Boot
-
-### Assignment 
-
 - What is JPA, Spring Data and Spring Data JPA
 - Had a session with Kunal sir, abrar sir and avinash sir.
 - Task on Zomato Application.
 
-### Doubts
+### Videos
+- No Videos
 
+### Assignment 
+- Spring Boot <In-progress>
+
+### Doubts
 - NO DOUBTS YET
 
 ### Links
-
 - https://www.amitph.com/jpa-and-spring-data-jpa/
 
-### Videos
-
-- No Vedios
-## Second half
-
-TOPIC - Working on Assignment
-
-### Assignment 
-
+## Second Half
 - Creating Documentation on zomato Application
 
-### Doubts
+### Videos
+- no videos
 
-- no doubt yet.
+### Assignment 
+- Spring Boot <In-progress>
+
+### Doubts
+- no doubt yet
 
 ### Links
-
+- no links
 

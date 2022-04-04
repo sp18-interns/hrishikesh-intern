@@ -1,45 +1,37 @@
-# hrishikesh-intern
-
-# DATE in 16-03-2022
+<DATE 17-03-2022>
 
 ## First Half
-
-TOPIC - Spring Boot
-
-### Assignment 
-
 - watching Spring boot tutorial on youtube.<Pending>
 - Spring Boot Tutorial
 - Differences Between Java 8 map() And flatMap()
 
-### Doubts
+### Videos
+- no videos
 
-- NO DOUBTS YET
+### Assignment 
+- Spring Boot <In-progress>
+
+### Doubts
+- no doubts
 
 ### Links
-
 - https://codeburst.io/rest-controller-building-rest-api-638d3ff4fa71
 - https://www.youtube.com/watch?v=8SGI_XS5OPw
 - https://howtodoinjava.com/spring5/webmvc/controller-getmapping-postmapping/#2-spring-getmapping-example
 - https://javaconceptoftheday.com/differences-between-java-8-map-and-flatmap/
 
-Topic : Spring Boot
+## Second Half
+- Read article on - Spring Data JPASpring Data JPA.
+- Reading article on lambolombok
 
 ### Videos
+- no videos
 
-- following youtube vedio on Spring Boot. <Pending>
-
-## Second half
-
-TOPIC - Spring Boot
 ### Assignment 
-
-- Read article on - Spring Data JPASpring Data JPA.
-- Reading articale on lambolombok
+- Spring Boot <In-progress>
 
 ### Doubts
-
-- no doubt yet.
+- no doubts
 
 ### Links
 - https://www.youtube.com/watch?v=IucFDX3RO9U 

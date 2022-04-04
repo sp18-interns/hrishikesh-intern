@@ -1,42 +1,39 @@
-# hrishikesh-intern
-
-# <DATE in 11-03-2022>
+<DATE 11-03-2022>
 
 ## First Half
+- READ MYSQL TUTORIAL FROM w3school.
+- SPEND SOME TIME ON JAVATPOINT FOR MYSQL TUTORIAL.
 
-TOPIC - mysql
+### Videos
+-no videos
 
 ### Assignment 
 
-- READ MYSQL TUTORIAL FROM w3school.
-- SPEND SOME TIME ON JAVATPOINT FOR MYSQL TUTORIAL. 
+- mysql <In-progress>
 
 ### Doubts
-
-- NO DOUBTS YET
+- NO DOUBTS
 
 ### Links
-
 - https://www.w3schools.com/sql/default.asp
 - https://www.javatpoint.com/mysql-tutorial
 
 ## Second Half
-
-Topic : MySql
-
-### Videos
-
-- no vedios
-
-### Assignment 
-
 - discused about library management system.
 - Perform challanges on hackerrank.
 - got one star on hackerrank in sql.
 
+### Videos
+- no videos
+### Assignment 
+
+- mysql <In-progress>
+
 ### Doubts
-
-- no doubt yet.
-
+- had doubt onn library management system.
+	solved by discussion.
 ### Links
 - no links
+
+
+

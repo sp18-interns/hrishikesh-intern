@@ -1,15 +1,10 @@
-# hrishikesh-intern
-
-# <DATE in 08-03-2022>
+<DATE 08-03-2022>
 
 ## First Half
-
-Topic : Java ArrayList,LinkedList,List.
+- Topic : Java ArrayList,LinkedList,List.
 
 ### Videos
-
 - <COURSE Java MasterClass - Arrays to ArrayList> - <STATUS> (COMPLETED)
-
 ### Assignment 
 - reading on ArrayList,LinkedList,hashmap.
 - revised Array, ArrayList and List.
@@ -19,25 +14,26 @@ Topic : Java ArrayList,LinkedList,List.
 ### Doubts
 
 ### Links
-
 - https://www.w3schools.com/java/java_arraylist.asp
 - https://www.w3schools.com/java/java_linkedlist.asp
 - https://www.w3schools.com/java/java_hashmap.asp
 - https://www.pluralsight.com/guides/how-to-use-gitignore-file
 
-
 ## Second Half
-Topic : MySql
-Had a session with Avinash sir
-### Videos
+- Topic : MySql
+- Had a session with Avinash sir
 
-### Assignment 
-- Read the article about lambda.
+### Videos
 - Watch the video about Lambda.
+### Assignment 
+
+- Read the article about lambda.
 - had a session with avinash sir on mysql.
 - Completed assignment on lambda.
 
 ### Doubts
+had a doubt on lambda.
+	resolved it by reading lambda article.
 
 ### Links
 - https://www.youtube.com/watch?v=yb46iD5dJYY

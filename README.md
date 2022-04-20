@@ -43,7 +43,7 @@
 
 ### - [04 April 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/04%20April%20%2022)
 
-### - [05 April 22](https://github.com/sp18-interns/hrishikesh-intern /tree/main/05%20April%20%2022)
+### - [05 April 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/05%20April%20%2022)
 
 ### - [06 April 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/06%20April%20%2022)
 

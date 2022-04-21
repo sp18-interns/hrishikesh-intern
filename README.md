@@ -3,7 +3,7 @@
 
 ### - [04 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/04%20March%2022)
 
-### - [07 March 22](github.com/sp18-interns/hrishikesh-intern/tree/main/07%20March%2022)
+### - [07 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/07%20March%2022)
 
 ### - [08 March 22](github.com/sp18-interns/hrishikesh-intern/tree/main/08%20March%2022)
 

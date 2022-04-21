@@ -1,25 +1,25 @@
 # hrishikesh-intern
 ### Date
 
-### - [04 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/04th%20march%2022)
+### - [04 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/04%20march%2022)
 
-### - [07 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/07th%20march%2022)
+### - [07 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/07%20march%2022)
 
-### - [08 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/08th%20march%2022)
+### - [08 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/08%20march%2022)
 
-### - [09 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/09th%20march%2022)
+### - [09 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/09%20march%2022)
 
-### - [10 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/10th%20march%2022)
+### - [10 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/10%20march%2022)
 
-### - [11 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/11th%20march%2022)
+### - [11 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/11%20march%2022)
 
-### - [14 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/14th%20march%2022)
+### - [14 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/14%20march%2022)
 
-### - [15 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/15th%20march%2022)
+### - [15 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/15%20march%2022)
 
-### - [16 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/16th%20march%2022)
+### - [16 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/16%20march%2022)
 
-### - [17 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/17th%20march%2022)
+### - [17 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/17%20march%2022)
 
 ### - [21 March 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/21%20March%2022)
 

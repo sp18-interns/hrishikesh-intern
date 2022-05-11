@@ -73,6 +73,6 @@
 
 ### - [09 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/09%20May%2022)
 
-### - [10 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/10%20May%2022)
+### - [10 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/10%20may%2022)
 
-### - [11 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/11%20May%2022)
+### - [11 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/11%20may%2022)

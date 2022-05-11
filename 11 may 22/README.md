@@ -9,7 +9,7 @@
 - No Videos
 
 ### Assignment 
-- zomato assignment <In-progress>
+- zuora
 
 ### Doubts
 - not able to explore following things.
@@ -31,7 +31,7 @@
 - No videos
 
 ### Assignment 
-- Zomato assignment <In-progress>
+- zuora
 
 ### Doubts
 - However, we are getting error when we try to create invoice. We are not able to explore following things.

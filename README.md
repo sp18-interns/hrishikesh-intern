@@ -95,16 +95,16 @@
 
 ### - [24 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/24%20%20May%2022)
 
-### - [25 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/25%20%20May%2022)
+### - [25 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/25%20May%2022)
 
 ### - [26 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/26%20%20May%2022)
 
 ### - [27 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/27%20%20May%2022)
 
-### - [28 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/28%20%20May%2022)
+### - [28 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/28%20May%2022)
 
 ### - [30 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/30%20%20May%2022)
 
 ### - [31 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/31%20%20May%2022)
 
-### - [01 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/01%20%20June%2022)
+### - [01 May 22](https://github.com/sp18-interns/hrishikesh-intern/tree/main/01%20June%2022)

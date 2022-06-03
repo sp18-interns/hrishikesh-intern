@@ -1,0 +1,29 @@
+*Insertion sort*
+
+sample input:
+
+array = [8, 5, 2, 9, 5, 6, 3]
+
+
+sample output:
+  [2, 3, 5, 5, 6, 8, 9]
+
+code:
+
+import java.util.*;
+
+class Program {
+  public static int[] insertionSort(int[] array) {
+    // Write your code here.
+    for (int i = 0; i < array.length -1; i++) {
+      int trav = i+1;
+      while ((trav > 0) && (array[trav] < array[trav-1])) {
+        int temp = array[trav];
+        array[trav] = array[trav-1];
+        array[trav-1] = temp;
+        trav--;
+      }
+    }
+    return array;
+  }
+}
